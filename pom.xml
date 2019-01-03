@@ -128,7 +128,7 @@
 								<exclusions>
 									<exclusion>
 										<groupId>ant</groupId>
-										<artifactId>ant</artifactId>
+										<artifactId>an</artifactId>
 									</exclusion>
 								</exclusions>
 							</dependency>
